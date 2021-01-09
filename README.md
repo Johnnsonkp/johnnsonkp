@@ -1,6 +1,8 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm John, a Full Stack Web Developer with a professional background in admin and IT, currently studying at [Coder Academy](https://coderacademy.edu.au/).
+## I'm John
+
+A Full Stack Web Developer with a professional background in admin and IT, currently studying at [Coder Academy](https://coderacademy.edu.au/).
 
 :mailbox: You can reach me on
 
@@ -15,4 +17,4 @@ I'm John, a Full Stack Web Developer with a professional background in admin and
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m currently learning Ruby on Rails
 - 📫 How to reach me: john.nkp1@gmail.com.
-- ⚡ Fun fact: I'm fitness junkie, coffee enthusiast and a low-key geek
+- ⚡ Fun fact: I'm fitness a junkie, coffee enthusiast and a low-key geek
