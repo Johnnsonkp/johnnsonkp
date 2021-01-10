@@ -2,7 +2,7 @@
 
 ### _I'm John_
 
-A Full Stack Web Developer with a professional background in admin and IT, currently studying at [Coder Academy](https://coderacademy.edu.au/).
+A Full Stack Web Developer in the making with a professional background in admin and IT, currently studying at [Coder Academy](https://coderacademy.edu.au/).
 
 :mailbox: You can reach me on
 
