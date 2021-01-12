@@ -19,3 +19,5 @@ A Full Stack Web Developer in the making with a professional background in admin
 - 📫 How to reach me: john.nkp1@gmail.com.
 - ⚡ Fun fact: I'm fitness a junkie, coffee enthusiast and a low-key geek
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnnsonkp)](https://github.com/anuraghazra/github-readme-stats)
