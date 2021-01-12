@@ -20,6 +20,5 @@ A Full Stack Web Developer in the making with a professional background in admin
 - ⚡ Fun fact: I'm fitness a junkie, coffee enthusiast and a low-key geek
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnnsonkp)](https://github.com/anuraghazra/github-readme-stats)
-![Johns github stats](https://github-readme-stats.vercel.app/api?username=johnnsonkp&show_icons=true&theme=tokyonight)
+![Johns github stats](https://github-readme-stats.vercel.app/api?username=johnnsonkp&show_icons=true&theme=onedark)
 
