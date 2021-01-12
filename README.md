@@ -18,6 +18,7 @@ A Full Stack Web Developer in the making with a professional background in admin
 - 📫 How to reach me: john.nkp1@gmail.com.
 - ⚡ Fun fact: I'm fitness a junkie, coffee enthusiast and a low-key geek
 
-[[!John's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnsonkp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![John's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnsonkp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=johnnsonkp&show_icons=true&theme=radical)
 
