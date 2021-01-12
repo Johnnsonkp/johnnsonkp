@@ -21,5 +21,5 @@ A Full Stack Web Developer in the making with a professional background in admin
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnnsonkp)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Johns github stats](https://github-readme-stats.vercel.app/api?username=johnnsonkp&show_icons=true&theme=tokyonight)
 
