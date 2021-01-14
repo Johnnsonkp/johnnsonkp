@@ -19,7 +19,7 @@ A Full Stack Web Developer in the making with a professional background in admin
 - ⚡ Fun fact: I'm fitness a junkie, coffee enthusiast and a low-key geek
 
 ## My Stats:
-[![John's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnsonkp&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![John's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnsonkp&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) ![John's github stats](https://github-readme-stats.vercel.app/api?username=johnnsonkp&show_icons=true&theme=radical)
 
-![John's github stats](https://github-readme-stats.vercel.app/api?username=johnnsonkp&show_icons=true&theme=radical)
+
 
