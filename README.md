@@ -1,7 +1,7 @@
 # Hi! I'm John! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">😄
 
 
-A Full Stack Web Developer in the making with a professional background in admin and IT, currently studying at [Coder Academy](https://coderacademy.edu.au/).
+A Full Stack Web Developer student and professional, with a professional background in admin and IT, currently studying at [Coder Academy](https://coderacademy.edu.au/).
 
 :mailbox: You can reach me on
 
@@ -14,7 +14,7 @@ A Full Stack Web Developer in the making with a professional background in admin
 
 - 🔭 I’m currently working on a [NBAstats app](https://github.com/Johnnsonkp/nba-stats)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m currently learning Ruby on Rails
+- 🤔 I’m currently learning Javascript.
 - 📫 How to reach me: john.nkp1@gmail.com.
 - ⚡ Fun fact: I'm fitness a junkie, coffee enthusiast and a low-key geek
 
