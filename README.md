@@ -12,7 +12,6 @@ A Full Stack Web Developer student and professional, with a professional backgro
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on a [NBAstats app](https://github.com/Johnnsonkp/nba-stats)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m currently learning Javascript.
 - 📫 How to reach me: john.nkp1@gmail.com.
